@@ -17,7 +17,7 @@ export default function SignupForm() {
         setPassword(value);
         break;
 
-      default:
+      default: 
         return;
     }
   };
